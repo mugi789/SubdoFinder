@@ -8,7 +8,7 @@ Buka terminal, lalu copy text yg ada di bawah ini
 * ``` sudo apt install git curl jq sed -y ```
 * ``` git clone https://github.com/mugi789/subdomain-finder/ ```
 * ``` cd /subdomain-finder/ ```
-* ``` ./subfin.sh ```
+* ``` ./subfind.sh ```
 
 
 **Tested on Ubuntu 18.04**
