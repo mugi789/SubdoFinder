@@ -5,11 +5,11 @@
 
 # Tutorial
 Buka terminal, lalu copy text yg ada di bawah ini
-* ``` sudo apt-get install curl jq sed -y ``` <br>
-* ``` git clone https://github.com/mugi789/subdomain-finder/ ```<br>
-* ``` cd /subdomain-finder/ ```<br>
-* ``` ./subfin.sh ```<br>
+* ``` sudo apt install git curl jq sed -y ```
+* ``` git clone https://github.com/mugi789/subdomain-finder/ ```
+* ``` cd /subdomain-finder/ ```
+* ``` ./subfin.sh ```
 
 
-Tested on Ubuntu 18.04
+**Tested on Ubuntu 18.04**
 
