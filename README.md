@@ -1,7 +1,6 @@
 # Subdomain Finder Tools
 
-![alt text](https://raw.githubusercontent.com/mugi789/SubdoFinder/main/Screenshot%20from%202021-02-25%2021-49-14.png)
-![alt text](https://raw.githubusercontent.com/mugi789/SubdoFinder/main/Screenshot%20from%202021-02-25%2021-49-48.png)
+![alt text](https://raw.githubusercontent.com/mugi789/SubdoFinder/main/ss.png)
 
 # Tutorial
 Buka terminal, lalu copy text yg ada di bawah ini
