@@ -2,7 +2,7 @@
 
 ![alt text](https://raw.githubusercontent.com/mugi789/SubdoFinder/main/ss.png)
 
-# Tutorial
+# Cara Pakai
 Buka terminal, lalu copy text yg ada di bawah ini
 * ``` sudo apt install git curl jq sed -y ```
 * ``` git clone https://github.com/mugi789/SubdoFinder/ ```
