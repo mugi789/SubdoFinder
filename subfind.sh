@@ -9,7 +9,7 @@ printf "\e[93m
 "
 echo -ne '\n\r'
 url='https://dns.bufferover.run/dns?q=.'
-echo -n -e " Masukkan web yg ingin discan (tanpa http/https) : \e[96m"
+echo -n -e " Masukkan URL (tanpa http/https) : \e[96m"
 read target
 echo -e "\033[0m Scanning \033[0;36m$target\033[0m"
 echo -e "\033[0;31m===========\033[0m Hasil \033[0;31m===========\033[0m"
