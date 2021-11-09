@@ -16,7 +16,8 @@ ready() {
                     save=$(curl -m 3 -w "%{redirect_url}\n" -s $domain -o /dev/null >> .temp) &
                     cat .temp | sort -u > $file; cat $file
                 done; wait
-                echo "Saved on $file"; exit
+                echo "Saved on $file"
+                rm .temp; exit
             ;;
             [Nn]* )
                 echo "Byee..."; exit
